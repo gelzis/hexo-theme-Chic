@@ -1,22 +1,22 @@
 # Header
-navname: Bentham's Blog
+navname: Gelzis Blog
 
 # navigatior items
 nav:
   Posts: /archives
   Categories: /category
   Tags: /tag
-  About: /about
+  About: https://gelzis.com
 
 # favicon
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: Gelzis
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
-avatar: /image/avatar.jpeg
+description: Your need for self-reflection<br/>Is a reflection of you, and a sign of the times <br/>Your use of self-expression<br/>Is a weapon in the age in which we live
+avatar: /image/avatar.png
 
 # main menu navigation
 ## links key words should not be changed.
@@ -24,32 +24,6 @@ avatar: /image/avatar.jpeg
 ## Unused key can be commented out.
 links:
   Blog: /archives
-  # Category:
-  # Tags: 
-  # Link:
-  # Resume:
-  # Publish:
-  # Trophy:
-  # Gallery:
-  # RSS:
-  # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
-  # LinkedIn:
-  # FaceBook:
-  # Twitter:
-  # Skype:
-  # CodeSandBox:
-  # CodePen:
-  # Sketch:
-  # Gitlab:
-  # Dribbble:
-  Instagram:
-  Reddit:
-  # YouTube:
-  # QQ:
-  # Weibo:
-  # WeChat:
-  Github: https://github.com/Siricee
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
@@ -70,7 +44,7 @@ post_copyright_permalink_enable: true
 post_copyright_license_enable: true
 post_copyright_license_text: Copyright (c) 2019 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
 post_copyright_slogan_enable: true
-post_copyright_slogan_text: Do you believe in <strong>DESTINY</strong>?
+post_copyright_slogan_text:
 ## toc
 post_toc_enable: true
 
